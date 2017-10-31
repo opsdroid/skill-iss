@@ -32,9 +32,5 @@ Shows the user a map of the ISS location
 > opsdroid:
 > ![ISS](https://cloud.githubusercontent.com/assets/1610850/25489364/7e09dffa-2b61-11e7-9539-788fa67544b2.png)
 
-## License
-
-GNU General Public License Version 3 (GPLv3)
-
 [google-maps-api]: https://developers.google.com/maps/documentation/static-maps/intro
 [open-notify]: http://api.open-notify.org/
